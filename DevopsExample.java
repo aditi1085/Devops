@@ -1,7 +1,7 @@
 public class DevopsExample
 {
-public static void main(string[] args)
+public static void main(String[] args)
 {
-systeam.out.println("WELCOME TO DEVOPS ASSIGNMENT");
+System.out.println("WELCOME TO DEVOPS ASSIGNMENT");
 }
 }
